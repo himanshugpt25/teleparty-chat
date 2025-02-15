@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/himanshugpt25/teleparty-chat.git/static/css/main.14cd5a33.css",
-    "main.js": "/himanshugpt25/teleparty-chat.git/static/js/main.7230bed4.js",
-    "static/js/973.f2e80111.chunk.js": "/himanshugpt25/teleparty-chat.git/static/js/973.f2e80111.chunk.js",
-    "index.html": "/himanshugpt25/teleparty-chat.git/index.html",
-    "main.14cd5a33.css.map": "/himanshugpt25/teleparty-chat.git/static/css/main.14cd5a33.css.map",
-    "main.7230bed4.js.map": "/himanshugpt25/teleparty-chat.git/static/js/main.7230bed4.js.map",
-    "973.f2e80111.chunk.js.map": "/himanshugpt25/teleparty-chat.git/static/js/973.f2e80111.chunk.js.map"
+    "main.css": "/teleparty-chat/static/css/main.14cd5a33.css",
+    "main.js": "/teleparty-chat/static/js/main.0fbd56a3.js",
+    "static/js/973.f2e80111.chunk.js": "/teleparty-chat/static/js/973.f2e80111.chunk.js",
+    "index.html": "/teleparty-chat/index.html",
+    "main.14cd5a33.css.map": "/teleparty-chat/static/css/main.14cd5a33.css.map",
+    "main.0fbd56a3.js.map": "/teleparty-chat/static/js/main.0fbd56a3.js.map",
+    "973.f2e80111.chunk.js.map": "/teleparty-chat/static/js/973.f2e80111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14cd5a33.css",
-    "static/js/main.7230bed4.js"
+    "static/js/main.0fbd56a3.js"
   ]
 }
