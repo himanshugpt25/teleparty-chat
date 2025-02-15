@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teleparty-chat/static/css/main.14cd5a33.css",
+    "main.js": "/teleparty-chat/static/js/main.0fbd56a3.js",
+    "static/js/973.f2e80111.chunk.js": "/teleparty-chat/static/js/973.f2e80111.chunk.js",
+    "index.html": "/teleparty-chat/index.html",
+    "main.14cd5a33.css.map": "/teleparty-chat/static/css/main.14cd5a33.css.map",
+    "main.0fbd56a3.js.map": "/teleparty-chat/static/js/main.0fbd56a3.js.map",
+    "973.f2e80111.chunk.js.map": "/teleparty-chat/static/js/973.f2e80111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14cd5a33.css",
+    "static/js/main.0fbd56a3.js"
+  ]
+}

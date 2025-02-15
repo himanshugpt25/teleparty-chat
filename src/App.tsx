@@ -9,7 +9,7 @@ import { TelepartyProvider } from './context/TelepartyContext';
 function App(): JSX.Element {
   return (
     <TelepartyProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/teleparty-chat">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<div className="h-full flex items-center justify-center text-gray-500">Select a room or create one to start chatting</div>} />
